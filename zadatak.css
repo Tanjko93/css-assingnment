@@ -1,7 +1,0 @@
-a[href*="google"] {
-    color: blue
-}
-
-a[href*="link"] {
-    color: red
-}
